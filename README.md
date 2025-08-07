@@ -54,6 +54,9 @@
   <a href="https://planxoffice.com/customer">
     <img src="https://img.shields.io/badge/PlanX-Reward%20and%20Referral%20Platform-46E3B7?style=for-the-badge&labelColor=46E3B7" height="35"/>
   </a>
+  <a href="https://main.d1fplo5yysrh2x.amplifyapp.com/join/?ref=FAHAD_F6B3BE31">
+    <img src="https://img.shields.io/badge/Taskbound-A%20complete%20platform%20for%20seamless%20deliveries-010101?style=for-the-badge&labelColor=010101" height="35"/>
+  </a>
 
   <a href="https://suqhur.com/">
     <img src="https://img.shields.io/badge/Suqhur-A%20complete%20platform%20for%20seamless%20deliveries-4285F4?style=for-the-badge&labelColor=4285F4" height="35"/>
